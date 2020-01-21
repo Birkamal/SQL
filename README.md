@@ -1,6 +1,6 @@
 # SQL
 Data is spread across 3 tables, representing a hierarchy of region information in Canada.
-# Countrylist
+## Countrylist
 is the list of countries
 # Provinces
 is the list of states/provinces
