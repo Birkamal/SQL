@@ -9,4 +9,5 @@ it contains a link of smaller regions having multiple levels of hierarchy.
 It could be 3 levels(country->province->city) or more (country->province->city->region->regionid->...->point_of_interest)
 
 ## Write a SQL statement that returns exactly one row with columns:
+#### Challenge: It should not be a function with a loop structure
 region_id, region_name, province_name, province_code, country_name,country_code for any given region_id.
