@@ -1,5 +1,6 @@
 # SQL
 (Sample to showcase SQL skills)
+
 Data is spread across 3 tables, representing a hierarchy of region information in Canada.
 ### Countrylist
 is the list of countries
